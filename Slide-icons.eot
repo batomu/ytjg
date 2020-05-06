@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="pl">
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /> 
+      
+      
+      
+
+      
+      
+       
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="sklepy internetowe, gastronomia, dostawy do biur, kawa i herbata, hurtownia słodyczy, hurtownia napojów,  cukier, dostawy warzyw i owoców, hurtownia słodyczy, hurtownia chemii, sklep spożywczy, artykuły biurowe, papier ksero, hurtownia nabiału" />
+<meta name="description" content="Hurtownia dla zarówno dla osób prywatnych jak i firm/instytucji. U nas zrobisz zakupy bez ograniczenia ilościowego wraz z dostawą pod drzwi. Sprawdź!" />
+<title>HURTOWNIA-SPOZYWCZA.PL</title>
+
+      <link href="/bootstrap/css/bootstrap.min.css?v320" rel="stylesheet" type="text/css" />
+      <link href="/cache/css/798ac4812124a34e14db9b70cec9af63.css?lm=1588650576" rel="stylesheet" type="text/css" media="screen" />
+
+      <script src="/cache/js/240722525d5163420dc3edd40009fdd6.js?lm=1588650576" type="text/javascript"></script>
+
+      <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+      <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700|Roboto:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+      
+      
+      <!--[if IE 9]>
+         <style type="text/css">
+         select.form-control
+         {
+            padding-right: 0;
+            background-image: none;
+         }
+         </style> 
+      <![endif]-->
+
+      <script type="text/javascript">    
+      //<![CDATA[
+         jQuery(function($) {
+            $(document).ready(function(){
+               $('body [data-equalizer]').equalizer({ use_tallest: true });
+               $(window).scroll(function () {
+                    if ($(this).scrollTop() > 100) {
+                        $('#toTop').fadeIn();
+                    } else {
+                        $('#toTop').fadeOut();
+                    }
+               });
+               $('#toTop').click(function () {
+                    $("html, body").animate({
+                        scrollTop: 0
+                    }, 300);
+                    return false;
+               });
+
+               var scroll = false;
+               var $window = $(window);
+               $window.scroll(function() {
+                  scroll = true;
+               });
+               setInterval(function() {
+                  if (scroll) {
+                     if($window.scrollTop() + $window.height() >= $(document).height()-250) {
+                        $('#phone-call').show()
+                     }else{
+                        $('#phone-call').hide()
+                     }
+                     scroll = false;
+                  }
+               }, 255);
+
+            });
+         });
+      //]]>
+      </script> 
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-12252254-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+  gtag('config', 'UA-12252254-1');
+  gtag('config', 'AW-1014729667');
+</script>  
+      <script type="text/javascript">
+  (function () { 
+    var _tsid = 'X0C3A373C456046F363706027A6DF4F9C'; 
+    _tsConfig = { 
+      'yOffset': '0', /* offset from page bottom */
+      'variant': 'reviews', /* text, default, small, reviews, custom, custom_reviews */
+      'customElementId': '', /* required for variants custom and custom_reviews */
+      'trustcardDirection': '', /* for custom variants: topRight, topLeft, bottomRight, bottomLeft */
+      'customBadgeWidth': '', /* for custom variants: 40 - 90 (in pixels) */
+      'customBadgeHeight': '', /* for custom variants: 40 - 90 (in pixels) */
+      'disableResponsive': 'false', /* deactivate responsive behaviour */
+      'disableTrustbadge': 'false', /* deactivate trustbadge */
+      'trustCardTrigger': 'mouseenter' /* set to 'click' if you want the trustcard to be opened on click instead */
+    };
+    var _ts = document.createElement('script');
+    _ts.type = 'text/javascript'; 
+    _ts.charset = 'utf-8'; 
+    _ts.async = true; 
+    _ts.src = '//widgets.trustedshops.com/js/' + _tsid + '.js'; 
+    var __ts = document.getElementsByTagName('script')[0];
+    __ts.parentNode.insertBefore(_ts, __ts);
+  })();
+</script>   </head>
+   <body>
+       
+      <div id="bg">
+	 <div class="container"style="padding-left: 0px; padding-right: 0px; background:#fbbb17"> 
+	<div id="gornybanner">
+		<a href="http://hurtownia-spozywcza.pl/webpage/pl/dostawa-i-metody-platnosci.html" style="padding-right: 10px; padding-left: 10px; color: #ffffff; border-right: 1px solid #dadada; font-family: 'arial',serif;">INFORMACJE O DOSTAWACH</a>
+		<a href="http://hurtownia-spozywcza.pl/webpage/kontakt-42.html" style="padding-right: 10px; padding-left: 10px; color: #ffffff; border-right: 1px solid #dadada; font-family: 'arial',serif; ">KONTAKT / O NAS</a>
+		<a href="https://hurtownia-spozywcza.pl/webpage/prztargi.html" style="padding-right: 10px; padding-left: 10px; color: #ffffff; border-right: 1px solid #dadada; font-family: 'arial',serif; ">ZAMÓWIENIA PUBLICZNE</a>
+		<a href="http://hurtownia-spozywcza.pl/user/loginUser" style="padding-right: 10px; padding-left: 10px; color: #ffffff; border-right: 1px solid #dadada; font-family: 'arial',serif;">LOGOWANIE</a>
+		<a href="http://hurtownia-spozywcza.pl/user/createAccount" style="padding-right: 10px; padding-left: 10px; color: #ffffff; border-right: 1px solid #dadada; font-family: 'arial',serif;">REJESTRACJA</a>
+		<a href="http://hurtownia-spozywcza.pl/basket/index" style="padding-right: 10px; padding-left: 10px; color: #ffffff; font-family: 'arial',serif;">KOSZYK</a>
+	</div>
+</div>
+
+
+
+
+
+<div id="top" class="container hidden-xs">  
+    <div id="header" class="clearfix">
+        <div id="logo">            
+            <br><a href="/">
+                <img src="/images/frontend/theme/hurtownia2019/_editor/prod/f65bb3790099c96461e7297a326240a4.png" alt="Logo"/>
+            </a>
+        </div>
+				<div <b style="float: right!important;">
+				<form action="/product/search" class="form-inline search" method="get">
+    <div class="input-group">
+        <label class="sr-only" for="search">Wyszukaj</label>
+        <input type="search" autocomplete="off" class="form-control" name="query" value="" placeholder='Wpisz czego szukasz' />
+        <span class="input-group-btn">
+            <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+        </span>                                
+    </div>
+</form>
+
+
+<script id="search-result-tpl" type="text/x-template">
+    <div class="media">
+        <div class="media-left">
+            <a href="#">
+                <img class="media-object" src="{%=o.image%}" alt="{%=o.name%}">
+            </a>
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">{%=o.name%}</h4>
+            {% if (o.price) { %}
+                <div class="price-info">
+                    {% if (o.price.type == 'gross_net')  { %}
+                        <span class="price">{%=o.price.brutto%}</span>
+                    {% } else if (o.price.type == 'net_gross') { %}
+                        <span class="price">{%=o.price.netto%}</span>
+                    {% } else if (o.price.type == 'only_net') { %}
+                        <span class="price">{%=o.price.netto%}</span>
+                    {% } else { %}
+                        <span class="price">{%=o.price.brutto%}</span>
+                    {% } %}
+                </div>
+            {% } %}
+        </div>
+    </div>
+</script>
+
+<script type="text/javascript">
+    jQuery(function($) {
+        $('.search').submit(function() {
+            var input = $(this).find('input[name=query]');
+
+            if (!input.val()) {
+                input.parent().addClass('has-error');
+                return false;
+            } 
+
+            input.parent().removeClass('has-error');
+            return true;            
+        });
+
+        var products = new Bloodhound({
+            datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            remote: {
+                url: '/search/typeahead?query=%QUERY',
+                wildcard: '%QUERY'
+            },
+            limit: 100
+        });
+     
+        products.initialize();
+
+        var tpl = tmpl($('#search-result-tpl').html());
+        
+        var typeahead = $('.search input[type="search"]');
+        typeahead.typeahead({
+            minLength: 3,
+            source: products.ttAdapter(),
+            messages: {
+                noresults: false,
+            }, 
+            viewport: { selector: '#header-navbar', padding: 0 },   
+            template: function(suggestions) {
+                var content = '';
+                for (var i = 0; i < suggestions.length; i++) {
+                    content += '<li data-url="'+suggestions[i].url+'">'+tpl(suggestions[i])+'</li>';
+                }
+                return content;
+            }
+        });
+    });
+</script>
+
+				</div>			
+    </div>
+</div>
+
+
+
+
+
+
+	<div id="container" class="container">	
+		<header>
+		    <div id="header-navbar-position">
+    <div id="header-navbar-outer">
+        <div class="container">
+            <nav id="header-navbar" class="navbar" role="navigation">    
+                <div id="logo_small" class="visible-xs">
+                    <div>
+                        <a href="/">
+                            <img src="/images/frontend/theme/hurtownia2019/_editor/prod/f21c3b7c8775d39a15542275a0bcfde2.png" alt="Logo" />
+                        </a>
+                     </div>
+                </div>           
+                <div id="navbar-buttons" class="btn-group pull-right">  
+                    <button id="nav-button-search" type="button" class="btn btn-navbar hidden-xs collapsed" data-toggle="collapse" data-target="#nav-search"  data-parent="#header-navbar">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>  
+                    <button id="nav-button-shopping-cart" class="btn btn-navbar collapsed empty" data-toggle="collapse" data-target="#nav-shopping-cart"  data-parent="#header-navbar">
+                        <span class="glyphicon glyphicon-shopping-cart"></span>
+                        <small class="quantity"></small>
+                    </button>
+
+                     
+                    <a href="https://hurtownia-spozywcza.pl/user/loginUser" id="nav-button-user" class="hidden-xs btn btn-navbar collapsed">
+                        <span id="login-status-info" class="glyphicon glyphicon-user"></span>
+                        <small class="login-status">&nbsp;</small>
+                    </a> 
+                    <button id="nav-button-user" class="visible-xs btn btn-navbar collapsed" data-toggle="collapse" data-target="#nav-user" data-parent="#header-navbar">
+                        <span id="login-status-info" class="glyphicon glyphicon-user"></span>
+                        <small class="login-status">&nbsp;</small>
+                    </button>     
+                                                      
+                    <button id="nav-button-settings" class="btn btn-navbar hidden-xs collapsed" data-toggle="collapse" data-target="#nav-settings" data-parent="#header-navbar">
+                        <span class="glyphicon glyphicon-globe"></span>
+                    </button>                                                                  
+                </div>           
+                <div class="navbar-header">
+                    <button id="nav-button-menu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-menu" data-parent="#header-navbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>                            
+                </div>               
+                <!-- Menu -->
+                <div id="nav-menu" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav horizontal-categories" style="visibility: hidden; height: 0">   
+    <li class="home-icon hidden-xs hidden-sm">
+        <a href="/">
+            <svg enable-background="new 0 0 512 512" height="21px" version="1.0" viewBox="0 0 512 512" width="22px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M446,466H66V199.2L256,36.5l190,162.7L446,466z M126,406h260l0-179.2L256,115.5L126,226.8V406z"/></g></svg>
+        </a>                     
+    </li>                     
+    <li class="visible-xs">
+        <form action="/product/search" class="form-inline search" method="get">
+    <div class="input-group">
+        <label class="sr-only" for="search">Wyszukaj</label>
+        <input type="search" autocomplete="off" class="form-control" name="query" value="" placeholder='Wpisz czego szukasz' />
+        <span class="input-group-btn">
+            <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+        </span>                                
+    </div>
+</form>
+
+
+<script id="search-result-tpl" type="text/x-template">
+    <div class="media">
+        <div class="media-left">
+            <a href="#">
+                <img class="media-object" src="{%=o.image%}" alt="{%=o.name%}">
+            </a>
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">{%=o.name%}</h4>
+            {% if (o.price) { %}
+                <div class="price-info">
+                    {% if (o.price.type == 'gross_net')  { %}
+                        <span class="price">{%=o.price.brutto%}</span>
+                    {% } else if (o.price.type == 'net_gross') { %}
+                        <span class="price">{%=o.price.netto%}</span>
+                    {% } else if (o.price.type == 'only_net') { %}
+                        <span class="price">{%=o.price.netto%}</span>
+                    {% } else { %}
+                        <span class="price">{%=o.price.brutto%}</span>
+                    {% } %}
+                </div>
+            {% } %}
+        </div>
+    </div>
+</script>
+
+<script type="text/javascript">
+    jQuery(function($) {
+        $('.search').submit(function() {
+            var input = $(this).find('input[name=query]');
+
+            if (!input.val()) {
+                input.parent().addClass('has-error');
+                return false;
+            } 
+
+            input.parent().removeClass('has-error');
+            return true;            
+        });
+
+        var products = new Bloodhound({
+            datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            remote: {
+                url: '/search/typeahead?query=%QUERY',
+                wildcard: '%QUERY'
+            },
+            limit: 100
+        });
+     
+        products.initialize();
+
+        var tpl = tmpl($('#search-result-tpl').html());
+        
+        var typeahead = $('.search input[type="search"]');
+        typeahead.typeahead({
+            minLength: 3,
+            source: products.ttAdapter(),
+            messages: {
+                noresults: false,
+            }, 
+            viewport: { selector: '#header-navbar', padding: 0 },   
+            template: function(suggestions) {
+                var content = '';
+                for (var i = 0; i < suggestions.length; i++) {
+                    content += '<li data-url="'+suggestions[i].url+'">'+tpl(suggestions[i])+'</li>';
+                }
+                return content;
+            }
+        });
+    });
+</script>
+
+    </li>    
+                                                    <li class="dropdown">
+                    <a href="/category/gazetka-promocyjna" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">GAZETKA PROMOCYJNA</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/gazetka-promocyjna-biurowe-gazetka-5633" class="category-link">Biurowe (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-chemia-i-kosmetyki-gazetka-5634" class="category-link">Chemia i kosmetyki (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-konserwy-gazetka-5635" class="category-link">Konserwy (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-mrozonki" class="category-link">Mrożonki (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-nabial-gazetka-5636" class="category-link">Nabiał (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-napoje-gazetka-5637" class="category-link">Napoje (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-slodycze-gazetka-5638" class="category-link">Słodycze Kawa Herbata (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-sypkie-i-przetwory-gazetka-5639" class="category-link">Sypkie i przetwory (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promocyjna-warzywa-owoce" class="category-link">Warzywa i owoce (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-wedliny-gazetka" class="category-link">Wędliny (Gazetka)</a></li>
+                                            </ul> 
+                </li>
+                     
+                                                    <li class="dropdown">
+                    <a href="/category/spozywcze" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">Spożywcze</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/spozywcze-bakalie" class="category-link">Bakalie</a></li>
+                                                    <li><a href="/category/spozywcze-bezglutenowe" class="category-link">Bezglutenowe</a></li>
+                                                    <li><a href="/category/spozywcze-gotowe-dania" class="category-link">Gotowe dania</a></li>
+                                                    <li><a href="/category/spozywcze-herbata" class="category-link">Herbata</a></li>
+                                                    <li><a href="/category/spozywcze-kakao-i-czekolada-5199" class="category-link">Kakao i Czekolada</a></li>
+                                                    <li><a href="/category/spozywcze-kawa" class="category-link">Kawa</a></li>
+                                                    <li><a href="/category/spozywcze-kiszonki" class="category-link">Kiszonki</a></li>
+                                                    <li><a href="/category/spozywcze-kuchnie-swiata" class="category-link">Kuchnie Świata</a></li>
+                                                    <li><a href="/category/spozywcze-mrozonki" class="category-link">Mrożonki</a></li>
+                                                    <li><a href="/category/spozywcze-nabial" class="category-link">Nabiał</a></li>
+                                                    <li><a href="/category/spozywcze-napoje" class="category-link">Napoje</a></li>
+                                                    <li><a href="/category/spozywcze-pieczywo" class="category-link">Pieczywo</a></li>
+                                                    <li><a href="/category/spozywcze-przetwory" class="category-link">Przetwory</a></li>
+                                                    <li><a href="/category/spozywcze-przyprawy" class="category-link">Przyprawy</a></li>
+                                                    <li><a href="/category/spozywcze-ryby-konserwy-rybne" class="category-link">Ryby, Konserwy Rybne</a></li>
+                                                    <li><a href="/category/spozywcze-slodycze" class="category-link">Słodycze</a></li>
+                                                    <li><a href="/category/spozywcze-sosy-i-dodatki" class="category-link">Sosy i dodatki</a></li>
+                                                    <li><a href="/category/spozywcze-swieze-warzywa-i-owoce" class="category-link">Świeże warzywa i owoce</a></li>
+                                                    <li><a href="/category/spozywcze-sypkie" class="category-link">Sypkie</a></li>
+                                                    <li><a href="/category/spozywcze-wedliny-konserwy-miesne" class="category-link">Wędliny, konserwy mięsne</a></li>
+                                                    <li><a href="/category/spozywcze-swieze-pieczywo" class="category-link">Świeże Pieczywo I Cukiernictwo</a></li>
+                                            </ul> 
+                </li>
+                     
+                                                    <li class="dropdown">
+                    <a href="/category/artykuly-biurowe" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">Biurowe</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/biurowe-archiwizacja-dokumentow" class="category-link">Archiwizacja dokumentów</a></li>
+                                                    <li><a href="/category/biurowe-koperty-i-akcesoria-do-wysylek" class="category-link">Akcesoria do wysyłek</a></li>
+                                                    <li><a href="/category/biurowe-artykuly-do-pisania-i-korygowania" class="category-link">Artykuły do pisania i korygowania</a></li>
+                                                    <li><a href="/category/biurowe-akcesoria-komputerowe" class="category-link">Akcesoria komputerowe</a></li>
+                                                    <li><a href="/category/biurowe-artykuly-papierowe" class="category-link">Artykuły papierowe</a></li>
+                                                    <li><a href="/category/biurowe-artykuly-szkolne" class="category-link">Artykuły szkolne</a></li>
+                                                    <li><a href="/category/biurowe-drobne-akcesoria-biurowe" class="category-link">Drobne akcesoria biurowe</a></li>
+                                                    <li><a href="/category/biurowe-materialy-eksploatacyjne" class="category-link">Materiały eksploatacyjne</a></li>
+                                                    <li><a href="/category/biurowe-ochrona-indywidualna" class="category-link">Ochrona indywidualna</a></li>
+                                                    <li><a href="/category/biurowe-prezentacja" class="category-link">Prezentacja</a></li>
+                                                    <li><a href="/category/biurowe-papier-i-etykiety" class="category-link">Papier i etykiety</a></li>
+                                                    <li><a href="/category/biurowe-urzadzenia-i-maszyny-biurowe" class="category-link">Urządzenia i maszyny biurowe</a></li>
+                                                    <li><a href="/category/biurowe-wyposazenie-biura" class="category-link">Wyposażenie biura</a></li>
+                                                    <li><a href="/category/biurowe-inne" class="category-link">Inne</a></li>
+                                            </ul> 
+                </li>
+                     
+                                                    <li class="dropdown">
+                    <a href="/category/chemia-gospodarcza" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">Chemia</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/chemia-gospodarcza-chusteczki-i-scierki-5077" class="category-link">Chusteczki, ścierki</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-do-podlog-i-dywanow-5073" class="category-link">Do podłóg i dywanów</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-do-drewna-i-mebli-5078" class="category-link">Do mebli</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-kuchnia" class="category-link">Kuchnia</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-lazienka-i-wc" class="category-link">Łazienka i WC</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-na-insekty-5100" class="category-link">Na Insekty</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-pielegnacja-obuwia-5101" class="category-link">Pielęgnacja obuwia</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-plyny-uniwersalne-i-do-szyb-5103" class="category-link">Płyny uniwersalne i do szyb</a></li>
+                                                    <li><a href="/category/chemia-gospodarcza-pranie" class="category-link">Pranie</a></li>
+                                                    <li><a href="/category/chemia-swiece" class="category-link">Świece</a></li>
+                                            </ul> 
+                </li>
+                     
+                                                    <li class="dropdown">
+                    <a href="/category/dziecko" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">Dzieci</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/dziecko-chusteczki" class="category-link">Chusteczki</a></li>
+                                                    <li><a href="/category/dziecko-kosmetyki" class="category-link">Kosmetyki</a></li>
+                                                    <li><a href="/category/dziecko-pieluszki" class="category-link">Pieluszki</a></li>
+                                                    <li><a href="/category/dziecko-zywnosci-dla-niemowlat-i-dzieci" class="category-link">Żywność</a></li>
+                                            </ul> 
+                </li>
+                     
+                                                    <li class="dropdown">
+                    <a href="/category/kosmetyki" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">Kosmetyki</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/kosmetyki-artykuly-medyczne" class="category-link">Artykuły medyczne</a></li>
+                                                    <li><a href="/category/kosmetyki-pielegnacja-ciala" class="category-link">Ciało</a></li>
+                                                    <li><a href="/category/kosmetyki-higiena" class="category-link">Higiena</a></li>
+                                                    <li><a href="/category/kosmetyki-pielegnacja-twarzy-kremy-dla-mezczyzn" class="category-link">Men</a></li>
+                                                    <li><a href="/category/kosmetyki-opalanie-5151" class="category-link">Opalanie</a></li>
+                                                    <li><a href="/category/kosmetyki-pielegnacja-twarzy" class="category-link">Twarz</a></li>
+                                                    <li><a href="/category/kosmetyki-pielegnacja-wlosow" class="category-link">Włosy</a></li>
+                                            </ul> 
+                </li>
+                     
+                                                    <li class="dropdown">
+                    <a href="/category/zwierzeta" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">Zwierzęta</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/zwierzeta-kot" class="category-link">Kot</a></li>
+                                                    <li><a href="/category/zwierzeta-pies" class="category-link">Pies</a></li>
+                                                    <li><a href="/category/zwierzeta-inne-zwierzeta-5423" class="category-link">Inne zwierzęta</a></li>
+                                            </ul> 
+                </li>
+                     
+                        <li>
+                <a href="/category/wyprzedaz" class="category-link">Wyprzedaż</a>
+            </li>
+         
+                        <li>
+                <a href="/category/duze-opakowania-produkty-horeca" class="category-link">HoReCa</a>
+            </li>
+         
+                                                    <li class="dropdown">
+                    <a href="/category/gazetka-promcyjna" class="dropdown-toggle category-link" data-hover="dropdown" data-toggle="dropdown">GAZETKA PROMCYJNA</a>
+                    <ul class="dropdown-menu">
+                                                    <li><a href="/category/gazetka-promcyjna-chemia-i-kosmetyki-gazetka" class="category-link">Chemia i kosmetyki (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promcyjna-slodycze-kawa-herbata-gazetka" class="category-link">Słodycze Kawa Herbata (Gazetka)</a></li>
+                                                    <li><a href="/category/gazetka-promcyjna-sypkie-i-przetwory-gazetka" class="category-link">Sypkie i przetwory (Gazetka)</a></li>
+                                            </ul> 
+                </li>
+                     
+          
+    
+    
+</ul>
+
+<script type="text/javascript">
+//<![CDATA[
+jQuery(function($) {
+    var horizontalCategories = $('.horizontal-categories');
+    var headerContainer = $('#header-navbar');
+    var logo = $('#logo');
+    var buttons = $('#navbar-buttons');
+    var categories = horizontalCategories.children(':not(.more)');
+    var moreContainer = $('<li style="display: none" class="dropdown more"><a data-toggle="dropdown" data-hover="dropdown" class="dropdown-toggle" href="#"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a><ul class="dropdown-menu"></ul>');
+
+
+    moreContainer.children("a").dropdownHover();
+
+    horizontalCategories.append(moreContainer); 
+
+    horizontalCategories.bind('highlight', function(event, href) {
+        var $this = $(this);
+        if (href) {
+            $this.find('a[href="'+href+'"]').parents("li").addClass("active"); 
+            $this.data('href', href);
+        } else {
+            $this.find('a[href="'+$this.data('href')+'"]').parents("li").addClass("active");
+        }      
+    }); 
+
+    function more() {
+
+
+        var current = 0;
+        var content = '';
+
+        moreContainer.hide();
+
+        if ($(window).width() < 992) {
+            categories.show(); 
+        } else {
+            horizontalCategories.css({ visibility: 'hidden', 'height': 0 });  
+            
+            var widthOffset = buttons.width() + moreContainer.width();
+            var width = headerContainer.width() - widthOffset;
+            categories.each(function() {
+                var li = $(this);
+               
+                current += li.width();
+
+                if (current >= width) {
+                    li.hide();
+                    var link = li.children('a');
+                    content += '<li><a href="'+link.attr('href')+'" class="category-link">'+link.html()+'</a></li>';
+                } else {
+                    li.show();
+                }
+                
+            });
+
+            if (content) {
+                moreContainer.children('.dropdown-menu').html(content);
+                moreContainer.show();
+                horizontalCategories.trigger('highlight');  
+            } 
+            
+        }
+  
+        horizontalCategories.css({ visibility: 'visible', 'height': 'auto' });     
+    }
+
+    horizontalCategories.on("click", '.category-link', function() {
+        var link = $(this);
+
+        if (link.data('toggle') != 'dropdown' || link.data('toggle') == 'dropdown' && link.parent().hasClass('open')) {
+            window.location = $(this).attr('href')+'?horizontal';
+            return false;
+        }
+    }); 
+
+    var win = $(window);
+
+    var throttle = 250,
+        handler = function() {
+            curr = ( new Date() ).getTime();
+            diff = curr - lastCall;
+
+            if ( diff >= throttle ) {
+
+                lastCall = curr;
+                $( window ).trigger( "throttledresize" );
+
+            } else {
+
+                if ( heldCall ) {
+                    clearTimeout( heldCall );
+                }
+
+                // Promise a held call will still execute
+                heldCall = setTimeout( handler, throttle - diff );
+            }
+        },
+        lastCall = 0,
+        heldCall,
+        curr,
+        diff;
+
+    win.resize(handler);
+
+    win.on("deviceorientation", handler); 
+
+    win.on("throttledresize", more);
+
+    $(window).one("webkitTransitionEnd otransitionend oTransitionEnd msTransitionEnd transitionend webkitAnimationEnd oanimationend msAnimationEnd animationend", more);
+
+    var img = $('#logo img');
+    img.one('load', more);
+    if (img.get(0).complete || img.get(0).readyState === 4) {
+        more();
+    }
+});
+//]]>   
+</script>
+
+                </div>            
+                <div class="navbar-dropdown">                
+                    <!-- Koszyk -->
+                    <div id="nav-shopping-cart" class="navbar-collapse collapse">
+                        <div class="shopping-cart clearfix">
+            <div class="text-right">Twój koszyk jest pusty</div>
+    </div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+jQuery(function($) {
+    var quantity = 0;
+    $("#nav-button-shopping-cart .quantity").html(quantity ? quantity : ""); 
+    $('#nav-shopping-cart [data-toggle=tooltip]').tooltip().on('show.bs.tooltip', function(e) {
+        var target = $(e.target);
+        if (target.hasClass('product-option-label')) {
+            var maxWidth = target.css('max-width');
+            target.css({ 'max-width': 'none' });
+            var width = target.width();
+            target.css({ 'max-width': maxWidth });
+
+            return width > target.width();
+        }
+
+        return true;
+    });
+    if (quantity > 0) {
+        $("#nav-button-shopping-cart.empty").removeClass('empty');
+    };
+});
+//]]>   
+</script>
+
+
+                    </div>        
+                    <div id="nav-user" class="navbar-collapse collapse">
+                        <ul class="nav navbar-nav">
+                            <!-- Moje konto, Język, Waluta -->                    
+                                <li class="user-options"><a href="https://hurtownia-spozywcza.pl/user/loginUser" rel="nofollow">Zaloguj</a></li>
+    <li class="user-options user-options-logout"><a href="https://hurtownia-spozywcza.pl/user/createAccount" rel="nofollow">Załóż konto</a></li>    
+
+<li class="dropdown visible-xs"></li> 
+<li class="dropdown visible-xs"></li>
+
+                                                        
+                        </ul>
+                    </div>
+                    <div id="nav-settings" class="hidden-xs navbar-collapse collapse"><ul class="nav navbar-nav"><li class="dropdown"></li><li class="dropdown"></li></ul></div>
+                    <div id="nav-search" class="navbar-collapse collapse hidden-xs">
+                        <form action="/product/search" class="form-inline search" method="get">
+    <div class="input-group">
+        <label class="sr-only" for="search">Wyszukaj</label>
+        <input type="search" autocomplete="off" class="form-control" name="query" value="" placeholder='Wpisz czego szukasz' />
+        <span class="input-group-btn">
+            <button class="btn btn-primary" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+        </span>                                
+    </div>
+</form>
+
+
+<script id="search-result-tpl" type="text/x-template">
+    <div class="media">
+        <div class="media-left">
+            <a href="#">
+                <img class="media-object" src="{%=o.image%}" alt="{%=o.name%}">
+            </a>
+        </div>
+        <div class="media-body">
+            <h4 class="media-heading">{%=o.name%}</h4>
+            {% if (o.price) { %}
+                <div class="price-info">
+                    {% if (o.price.type == 'gross_net')  { %}
+                        <span class="price">{%=o.price.brutto%}</span>
+                    {% } else if (o.price.type == 'net_gross') { %}
+                        <span class="price">{%=o.price.netto%}</span>
+                    {% } else if (o.price.type == 'only_net') { %}
+                        <span class="price">{%=o.price.netto%}</span>
+                    {% } else { %}
+                        <span class="price">{%=o.price.brutto%}</span>
+                    {% } %}
+                </div>
+            {% } %}
+        </div>
+    </div>
+</script>
+
+<script type="text/javascript">
+    jQuery(function($) {
+        $('.search').submit(function() {
+            var input = $(this).find('input[name=query]');
+
+            if (!input.val()) {
+                input.parent().addClass('has-error');
+                return false;
+            } 
+
+            input.parent().removeClass('has-error');
+            return true;            
+        });
+
+        var products = new Bloodhound({
+            datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+            queryTokenizer: Bloodhound.tokenizers.whitespace,
+            remote: {
+                url: '/search/typeahead?query=%QUERY',
+                wildcard: '%QUERY'
+            },
+            limit: 100
+        });
+     
+        products.initialize();
+
+        var tpl = tmpl($('#search-result-tpl').html());
+        
+        var typeahead = $('.search input[type="search"]');
+        typeahead.typeahead({
+            minLength: 3,
+            source: products.ttAdapter(),
+            messages: {
+                noresults: false,
+            }, 
+            viewport: { selector: '#header-navbar', padding: 0 },   
+            template: function(suggestions) {
+                var content = '';
+                for (var i = 0; i < suggestions.length; i++) {
+                    content += '<li data-url="'+suggestions[i].url+'">'+tpl(suggestions[i])+'</li>';
+                }
+                return content;
+            }
+        });
+    });
+</script>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">    
+//<![CDATA[
+jQuery(function($) {
+   if ($('#nav-settings  > ul > li:empty').length == 2)
+   {
+      $('#nav-button-settings').hide();
+   } 
+
+   var menuHeight = $('#header-navbar-outer').height();
+   var dropdown = $('#header-navbar .dropdown-menu');
+
+   function menuFix() {     
+
+        if ($(window).width() > 768) {
+            
+            var scrolled = $(window).scrollTop();
+            var menuTop = $('#header-navbar-position').offset().top;
+            var windowHeight = $(window).height();
+            var headerHeight = $('#top').height();
+
+            if (scrolled > menuTop) {
+                $('#header-navbar-outer').addClass('navbar-fixed-top');
+                $('#header-navbar-position').css('min-height', menuHeight - 1);
+                dropdown.css('max-height', windowHeight - menuHeight - 15);
+            } else if (scrolled < menuTop) {
+                $('#header-navbar-outer').removeClass('navbar-fixed-top');
+                $('#header-navbar-position').css('min-height', '');
+                dropdown.css('max-height', windowHeight - headerHeight - menuHeight - 15);
+            };
+        } else {
+            dropdown.removeAttr("style");
+        };
+    }
+
+    function parallaxBaner(){
+
+        if ($(window).width() > 767) {
+
+            var scrolled = $(window).scrollTop();
+            var scrollBaner2 = scrolled;
+
+            $('body').css('background-position', 'center '+ (scrollBaner2*0.5)+'px'); 
+        }
+    }
+
+    $(document).ready(function(){
+        menuFix();
+        if ($(window).width() < 768) {
+            var windowHeightMobile = $(window).height();
+            var menuHeightMobile = $('#header-navbar').height();
+            $('#header-navbar .navbar-collapse').css('max-height', windowHeightMobile - menuHeightMobile);
+        };  
+    });
+    $(window).scroll(function(){
+        menuFix();
+        //parallaxBaner();
+    });
+    $(window).resize(function(){
+        menuFix();
+    });
+   
+
+});
+//]]>
+</script> 
+
+		</header>
+		  
+
+		<div id="one-column-layout">
+			 
+	    	
+	    	<div id="webpage-show" class="error-404 text-center">
+    <img class="img-error" src="/images/frontend/theme/responsive/e404.png" />
+    <div class="title title-error">
+        <h1>Strona o podanym adresie nie istnieje.</h1>
+    </div>
+    <div class="btn-group">
+        <a href="/" class="btn-primary btn">
+            Przejdź do strony głównej
+        </a>
+    </div>
+</div>
+		</div>
+	</div>
+	<footer>
+		<div class="navbar navbar-default clearfix" role="navigation">
+    <div class="container">
+        <div class="row">
+            
+            <div id="webpage_footer" class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+    <div class="panel-group row" id="accordion_footer">
+			    <div class="foot-group list-group col-xs-12 col-sm-3">
+	       <h5 class="list-group-item-heading">
+	<a data-toggle="collapse" data-parent="#accordion_footer" href="#collapse_2"><p style="color: #FFCC33;">Informacje</p> <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
+</h5>  
+<div id="collapse_2" class="list-group collapse">
+                 
+        <a href="/webpage/dostawa-i-metody-platnosci.html">Dostawa i metody płatności</a>
+        
+                 
+        <a href="/webpage/kontakt-42.html">Informacje o firmie</a>
+        
+                 
+        <a href="/webpage/polityka-prywatnosci.html">Polityka Prywatności</a>
+        
+                 
+        <a href="/webpage/regulamin-93.html">Regulamin sklepu internetowego</a>
+        
+                 
+        <a href="/webpage/prztargi.html">Zapytanie ofertowe</a>
+        
+                 
+        <a href="/webpage/prawo-do-odstapienia-od-umowy-97.html">Prawo do odstąpienia od umowy</a>
+        
+      
+</div>
+	    </div>
+			    <div class="foot-group list-group col-xs-12 col-sm-3">
+	       <h5 class="list-group-item-heading">
+	<a data-toggle="collapse" data-parent="#accordion_footer" href="#collapse_3"><p style="color: #FFCC33;">Kontakt</p> <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
+</h5>  
+<div id="collapse_3" class="list-group collapse">
+                 
+        <a href="/webpage/tel.html">Tel: 022 721-15-41</a>
+        
+                 
+        <a href="/webpage/a-href-tel-022-721-15-41-fax-022-721-15-42-a.html"><a href="tel:+(022) 721-15-42">Fax:  022 721-15-42</a></a>
+        
+                 
+        <a href="/webpage/a-href-mailto-biuro-biuro-hurtownia-chemiczna-com-e-mail-a.html">E-mail: hurtownia@hurtownia-spozywcza.pl</a>
+        
+                 
+        <a href="/webpage/ul-sochaczewska-156.html">ul. Sochaczewska 156 , 05-850<br>Wieruchów k.Warszawy </a>
+        
+      
+</div>
+	    </div>
+			    <div class="foot-group list-group col-xs-12 col-sm-3">
+	       <h5 class="list-group-item-heading">
+	<a data-toggle="collapse" data-parent="#accordion_footer" href="#collapse_4"><p style="color: #FFCC33;">Panel klienta</p> <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
+</h5>  
+<div id="collapse_4" class="list-group collapse">
+                 
+        <a href="/webpage/a-href-http-hurtownia-spozywcza-pl-user-createaccount-rejestracja-a.html"><a href=http://hurtownia-spozywcza.pl/user/createAccount>Rejestracja</a></a>
+        
+                 
+        <a href="/webpage/a-http-hurtownia-spozywcza-pl-user-loginuser-logowanie-a.html"><a href=http://hurtownia-spozywcza.pl/user/loginUser>Logowanie</a></a>
+        
+                 
+        <a href="http://hurtownia-spozywcza.pl/order/list">Historia zamówień</a>
+        
+                 
+        <a href="https://hurtownia-spozywcza.pl/discount/discountInfo">Rabaty przyznane klientowi</a>
+        
+      
+</div>
+	    </div>
+			    <div class="foot-group list-group col-xs-12 col-sm-3">
+	       <h5 class="list-group-item-heading">
+	<a data-toggle="collapse" data-parent="#accordion_footer" href="#collapse_8"><p style="color: #FFCC33;">Newsletter</p> <span class="caret hidden-sm hidden-md hidden-lg"></span></a>
+</h5>  
+<div id="collapse_8" class="list-group collapse">
+                 
+        <a href="https://hurtownia-spozywcza.pl/newsletter/add">Zapisz się do newslettera i bądź na bieżąco z nowościami i promocjami!</a>
+        
+      
+</div>
+	    </div>
+						<div class="foot-group list-group col-xs-12 col-sm-3 visible-xs">
+	        <h5 class="list-group-item-heading"><a href="/webpage/ul-sochaczewska-156.html">Kontakt</a></h5>
+	    </div>
+	    	</div>   
+</div>   
+        </div>
+        <div class="copyright clearfix text-muted">
+            <a href="https://www.sote.pl/" target="_blank">sklep internetowy<img src="/images/frontend/theme/airsports/copyright.png" alt="sklepy internetowe" width="39" height="12" title="sklep internetowy SOTE"/></a>
+    </div>
+    </div>
+</div>
+	</footer>
+</div>      
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript">
+jQuery(function ($)
+{
+    $(document).ready(function()
+    {   
+    
+        var cookies = '<div id="cookies_message" style="background: #f0f0f0;"><div id="cookies_frame" style="width: 600px;"><div id="cookies_close"><span class="glyphicon glyphicon-remove"></span></div><div id="cookies_content" style="color:#000000;">Korzystanie ze strony oznacza zgodę na wykorzystywanie plików cookie, niektóre mogą być już zapisane w przeglądarce. Więcej informacji można znaleźć w <a href="/webpage/polityka-prywatnosci.html" >polityce prywatności</a>.</div></div></div>'; 
+        $( "footer" ).after(cookies); 
+         
+        var cookies_message = $('#cookies_message');
+        var height_cookies_message = $('#cookies_message').height();
+        if (!$.cookies.get('cookies_message_hidden')) {
+            cookies_message.show();
+            $("html").css("padding-bottom", height_cookies_message);
+        }
+
+        $('#cookies_close').click(function(){
+            cookies_message.hide();
+            var expires_at = new Date();
+            var years = 20;
+            expires_at.setTime(expires_at.getTime() + 1000 * years * 365 * 24 * 60 * 60);
+            $.cookies.set('cookies_message_hidden', true, {path: '/', expiresAt: expires_at});
+            $("html").css("padding-bottom", "0");
+        });
+    });
+});
+</script>
+
+<script type="text/javascript">
+
+    var price_view = "net_gross";
+    var list_view = "";
+    var compatibility_text = '<div id="price-star-info"></div>';
+    
+    jQuery(function($) {
+        $(document).ready(function() {          
+            function addStarPostfix() {
+                var price = $(this);
+                price.html(price.html() + ' *');                
+            }
+
+            function showCompatibility() {
+                $('footer .copyright').first().prepend(compatibility_text);
+            }
+                        
+            switch (price_view) {
+                case "net_gross":
+                    if (list_view) {
+                        $('#full-list .minor_price, #description-list .minor_price, #main-grid .minor_price').each(addStarPostfix);
+                    } else {
+                        $('#st_product_options-price-brutto').each(addStarPostfix);
+                    } 
+                    showCompatibility();
+                break;              
+            
+                case "gross_net":
+                    if (list_view) {
+                        $('#full-list .major_price, #description-list .major_price, #main-grid .major_price').each(addStarPostfix); 
+                    } else {
+                        $('#st_product_options-price-brutto').each(addStarPostfix);
+                    }
+                    showCompatibility();
+                break;
+
+                case "only_gross":
+                    if (list_view) {
+                        $('#full-list .price, #description-list .price, #main-grid .price').each(addStarPostfix); 
+                    } else {
+                        $('#st_product_options-price-brutto').each(addStarPostfix);
+                    }
+                    showCompatibility();
+                break;
+            }
+        });
+    });
+</script>
+
+            <a href="#" id="toTop"><span class="glyphicon glyphicon-arrow-up"></span></a>
+   </body>
+</html>
